@@ -10929,8 +10929,11 @@ a.text-dark:focus {
 }
 
 .bar{
-  background-color: skyblue;
+  background-color: #01142F;
   text-align: center;
+}
+.bar h2{
+  color:white;
 }
 input[type=checkbox]{
   transform: scale(1.5);
