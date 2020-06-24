@@ -10930,6 +10930,7 @@ a.text-dark:focus {
 
 .bar{
   background-color: skyblue;
+  text-align: center;
 }
 input[type=checkbox]{
   transform: scale(1.5);

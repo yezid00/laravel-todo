@@ -19,9 +19,7 @@
         <div class="container">
             <div>
                 <div class="jumbotron bar">
-                    <h2>This is a todo app</h2>
-                    <p>Built with Laravel</p>
-                    <h4>By Yezid</h4>
+                    <h2>Todo App</h2>
                 </div>
             </div>
             
